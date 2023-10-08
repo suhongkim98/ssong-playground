@@ -1,0 +1,24 @@
+[submodule "spring-security-ssongplate"]
+	path = spring-security-ssongplate
+	url = https://github.com/suhongkim98/spring-security-jwt-ssongplate
+[submodule "java-concurrent-example"]
+	path = java-concurrent-example
+	url = https://github.com/suhongkim98/java-concurrent-example
+[submodule "java-reactor-example"]
+	path = java-reactor-example
+	url = https://github.com/suhongkim98/java-reactor-example
+[submodule "system-architecture-ensemble"]
+	path = system-architecture-ensemble
+	url = https://github.com/suhongkim98/system-architecture-ensemble
+[submodule "java-jpa-hibernate"]
+	path = java-jpa-hibernate
+	url = https://github.com/suhongkim98/java-jpa-hibernate
+[submodule "algorithm"]
+	path = algorithm
+	url = https://github.com/suhongkim98/study-algorithm
+[submodule "testcontainers-embedded-vertica-demo"]
+	path = testcontainers-embedded-vertica-demo
+	url = https://github.com/suhongkim98/testcontainers-embedded-vertica-demo
+[submodule "java-aop"]
+	path = java-aop
+	url = https://github.com/suhongkim98/java-aop
