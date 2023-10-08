@@ -30,3 +30,7 @@
 	path = java-aop
 	url = https://github.com/suhongkim98/java-aop
         branch = main
+[submodule "kotlin-racingcar"]
+	path = kotlin-racingcar
+	url = https://github.com/suhongkim98/kotlin-racingcar
+	branch = main
