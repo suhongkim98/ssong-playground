@@ -34,3 +34,7 @@
 	path = kotlin-racingcar
 	url = https://github.com/suhongkim98/kotlin-racingcar
 	branch = main
+[submodule "spring-event-example"]
+	path = spring-event-example
+	url = https://github.com/suhongkim98/spring-eventlistener-example
+	branch = main
