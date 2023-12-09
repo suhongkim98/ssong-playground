@@ -38,3 +38,6 @@
 	path = spring-event-example
 	url = https://github.com/suhongkim98/spring-eventlistener-example
 	branch = main
+[submodule "spring-redis-example"]
+	path = spring-redis-example
+	url = https://github.com/suhongkim98/spring-redis-example
