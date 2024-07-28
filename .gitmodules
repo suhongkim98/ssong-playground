@@ -41,3 +41,6 @@
 [submodule "spring-redis-example"]
 	path = spring-redis-example
 	url = https://github.com/suhongkim98/spring-redis-example
+[submodule "mysql-kafka-connect-study"]
+	path = mysql-kafka-connect-study
+	url = https://github.com/suhongkim98/mysql-kafka-connect-study.git
