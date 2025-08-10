@@ -1,2 +1,2 @@
-- git submodule add {..}
+- git submodule add 클론주소
 - git submodule update --remote
